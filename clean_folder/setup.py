@@ -11,5 +11,5 @@ setup(
     packages=find_namespace_packages(),
     # install_requires=['markdown'],
     entry_points={'console_scripts': [
-        'clean-folder = clean_folder.clean']}
+        'clean-folder = clean_folder.clean']},
 )

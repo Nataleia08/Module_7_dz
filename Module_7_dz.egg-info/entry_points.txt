@@ -1,0 +1,3 @@
+[console_scripts]
+clean-folder = Module_7_dz.clean
+

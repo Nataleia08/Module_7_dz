@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+Module_7_dz.egg-info/PKG-INFO
+Module_7_dz.egg-info/SOURCES.txt
+Module_7_dz.egg-info/dependency_links.txt
+Module_7_dz.egg-info/entry_points.txt
+Module_7_dz.egg-info/top_level.txt
